@@ -1,0 +1,9 @@
+D:\Documentos\Visual Studio 2015\Projects\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe.config
+D:\Documentos\Visual Studio 2015\Projects\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe
+D:\Documentos\Visual Studio 2015\Projects\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.pdb
+D:\Documentos\Visual Studio 2015\Projects\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2015\Projects\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.Form1.resources
+D:\Documentos\Visual Studio 2015\Projects\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.Properties.Resources.resources
+D:\Documentos\Visual Studio 2015\Projects\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.GenerateResource.Cache
+D:\Documentos\Visual Studio 2015\Projects\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.exe
+D:\Documentos\Visual Studio 2015\Projects\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.pdb
